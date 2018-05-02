@@ -1,6 +1,9 @@
 # 画面イメージ
 Dragon Island
 
+[https://github.com/alesta88/gd/blob/master/image1.JPG]
+
+
 # 操作方法
 - キーボードの➡押したらキャラクターが動きます。
 - SPACEでジャンプします。
