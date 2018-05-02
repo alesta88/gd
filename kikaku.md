@@ -1,4 +1,4 @@
-![画面イメージ]! (image.jpg)
+![画面イメージ]! (https://github.com/alesta88/gd/blob/master/image1.JPG)
 Dragon Island
 
 
