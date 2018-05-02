@@ -1,6 +1,6 @@
 #画面イメージ
 ![画面イメージ](image1.JPG)
-<img width="50px" height="auto" src="./image1.jpg">
+<img width="50px" height="auto" src="./image1.JPG">
 
 
 Dragon Island
