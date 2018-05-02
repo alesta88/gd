@@ -1,7 +1,6 @@
-# 画面イメージ
+![画面イメージ]! (image.jpg)
 Dragon Island
 
-![https://github.com/alesta88/gd/blob/master/image1.JPG]!
 
 
 # 操作方法
