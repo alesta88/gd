@@ -5,7 +5,7 @@
 <img width="50px" height="auto" src="./image1.JPG">
 
 
-Dragon Island
+タイトル　”Dragon Island”
 
 
 
